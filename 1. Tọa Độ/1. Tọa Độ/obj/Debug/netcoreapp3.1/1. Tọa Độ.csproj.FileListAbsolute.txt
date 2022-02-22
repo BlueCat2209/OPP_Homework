@@ -1,0 +1,14 @@
+C:\[Timmy]\Homework\OPP\1. Tọa Độ\1. Tọa Độ\obj\Debug\netcoreapp3.1\1. Tọa Độ.csproj.AssemblyReference.cache
+C:\[Timmy]\Homework\OPP\1. Tọa Độ\1. Tọa Độ\obj\Debug\netcoreapp3.1\1. Tọa Độ.GeneratedMSBuildEditorConfig.editorconfig
+C:\[Timmy]\Homework\OPP\1. Tọa Độ\1. Tọa Độ\obj\Debug\netcoreapp3.1\1. Tọa Độ.AssemblyInfoInputs.cache
+C:\[Timmy]\Homework\OPP\1. Tọa Độ\1. Tọa Độ\obj\Debug\netcoreapp3.1\1. Tọa Độ.AssemblyInfo.cs
+C:\[Timmy]\Homework\OPP\1. Tọa Độ\1. Tọa Độ\obj\Debug\netcoreapp3.1\1. Tọa Độ.csproj.CoreCompileInputs.cache
+C:\[Timmy]\Homework\OPP\1. Tọa Độ\1. Tọa Độ\bin\Debug\netcoreapp3.1\1. Tọa Độ.exe
+C:\[Timmy]\Homework\OPP\1. Tọa Độ\1. Tọa Độ\bin\Debug\netcoreapp3.1\1. Tọa Độ.deps.json
+C:\[Timmy]\Homework\OPP\1. Tọa Độ\1. Tọa Độ\bin\Debug\netcoreapp3.1\1. Tọa Độ.runtimeconfig.json
+C:\[Timmy]\Homework\OPP\1. Tọa Độ\1. Tọa Độ\bin\Debug\netcoreapp3.1\1. Tọa Độ.runtimeconfig.dev.json
+C:\[Timmy]\Homework\OPP\1. Tọa Độ\1. Tọa Độ\bin\Debug\netcoreapp3.1\1. Tọa Độ.dll
+C:\[Timmy]\Homework\OPP\1. Tọa Độ\1. Tọa Độ\bin\Debug\netcoreapp3.1\1. Tọa Độ.pdb
+C:\[Timmy]\Homework\OPP\1. Tọa Độ\1. Tọa Độ\obj\Debug\netcoreapp3.1\1. Tọa Độ.dll
+C:\[Timmy]\Homework\OPP\1. Tọa Độ\1. Tọa Độ\obj\Debug\netcoreapp3.1\1. Tọa Độ.pdb
+C:\[Timmy]\Homework\OPP\1. Tọa Độ\1. Tọa Độ\obj\Debug\netcoreapp3.1\1. Tọa Độ.genruntimeconfig.cache

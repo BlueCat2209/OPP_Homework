@@ -1,0 +1,14 @@
+C:\[Timmy]\Homework\OPP\6. Bank Account\6. Bank Account\bin\Debug\netcoreapp3.1\6. Bank Account.exe
+C:\[Timmy]\Homework\OPP\6. Bank Account\6. Bank Account\bin\Debug\netcoreapp3.1\6. Bank Account.deps.json
+C:\[Timmy]\Homework\OPP\6. Bank Account\6. Bank Account\bin\Debug\netcoreapp3.1\6. Bank Account.runtimeconfig.json
+C:\[Timmy]\Homework\OPP\6. Bank Account\6. Bank Account\bin\Debug\netcoreapp3.1\6. Bank Account.runtimeconfig.dev.json
+C:\[Timmy]\Homework\OPP\6. Bank Account\6. Bank Account\bin\Debug\netcoreapp3.1\6. Bank Account.dll
+C:\[Timmy]\Homework\OPP\6. Bank Account\6. Bank Account\bin\Debug\netcoreapp3.1\6. Bank Account.pdb
+C:\[Timmy]\Homework\OPP\6. Bank Account\6. Bank Account\obj\Debug\netcoreapp3.1\6. Bank Account.csproj.AssemblyReference.cache
+C:\[Timmy]\Homework\OPP\6. Bank Account\6. Bank Account\obj\Debug\netcoreapp3.1\6. Bank Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\[Timmy]\Homework\OPP\6. Bank Account\6. Bank Account\obj\Debug\netcoreapp3.1\6. Bank Account.AssemblyInfoInputs.cache
+C:\[Timmy]\Homework\OPP\6. Bank Account\6. Bank Account\obj\Debug\netcoreapp3.1\6. Bank Account.AssemblyInfo.cs
+C:\[Timmy]\Homework\OPP\6. Bank Account\6. Bank Account\obj\Debug\netcoreapp3.1\6. Bank Account.csproj.CoreCompileInputs.cache
+C:\[Timmy]\Homework\OPP\6. Bank Account\6. Bank Account\obj\Debug\netcoreapp3.1\6. Bank Account.dll
+C:\[Timmy]\Homework\OPP\6. Bank Account\6. Bank Account\obj\Debug\netcoreapp3.1\6. Bank Account.pdb
+C:\[Timmy]\Homework\OPP\6. Bank Account\6. Bank Account\obj\Debug\netcoreapp3.1\6. Bank Account.genruntimeconfig.cache

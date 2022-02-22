@@ -1,0 +1,14 @@
+C:\[Timmy]\Homework\OPP\2. Sinh viên\2. Sinh viên\bin\Debug\netcoreapp3.1\2. Sinh viên.exe
+C:\[Timmy]\Homework\OPP\2. Sinh viên\2. Sinh viên\bin\Debug\netcoreapp3.1\2. Sinh viên.deps.json
+C:\[Timmy]\Homework\OPP\2. Sinh viên\2. Sinh viên\bin\Debug\netcoreapp3.1\2. Sinh viên.runtimeconfig.json
+C:\[Timmy]\Homework\OPP\2. Sinh viên\2. Sinh viên\bin\Debug\netcoreapp3.1\2. Sinh viên.runtimeconfig.dev.json
+C:\[Timmy]\Homework\OPP\2. Sinh viên\2. Sinh viên\bin\Debug\netcoreapp3.1\2. Sinh viên.dll
+C:\[Timmy]\Homework\OPP\2. Sinh viên\2. Sinh viên\bin\Debug\netcoreapp3.1\2. Sinh viên.pdb
+C:\[Timmy]\Homework\OPP\2. Sinh viên\2. Sinh viên\obj\Debug\netcoreapp3.1\2. Sinh viên.csproj.AssemblyReference.cache
+C:\[Timmy]\Homework\OPP\2. Sinh viên\2. Sinh viên\obj\Debug\netcoreapp3.1\2. Sinh viên.GeneratedMSBuildEditorConfig.editorconfig
+C:\[Timmy]\Homework\OPP\2. Sinh viên\2. Sinh viên\obj\Debug\netcoreapp3.1\2. Sinh viên.AssemblyInfoInputs.cache
+C:\[Timmy]\Homework\OPP\2. Sinh viên\2. Sinh viên\obj\Debug\netcoreapp3.1\2. Sinh viên.AssemblyInfo.cs
+C:\[Timmy]\Homework\OPP\2. Sinh viên\2. Sinh viên\obj\Debug\netcoreapp3.1\2. Sinh viên.csproj.CoreCompileInputs.cache
+C:\[Timmy]\Homework\OPP\2. Sinh viên\2. Sinh viên\obj\Debug\netcoreapp3.1\2. Sinh viên.dll
+C:\[Timmy]\Homework\OPP\2. Sinh viên\2. Sinh viên\obj\Debug\netcoreapp3.1\2. Sinh viên.pdb
+C:\[Timmy]\Homework\OPP\2. Sinh viên\2. Sinh viên\obj\Debug\netcoreapp3.1\2. Sinh viên.genruntimeconfig.cache
