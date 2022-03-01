@@ -1,0 +1,14 @@
+C:\[Timmy]\Homework\OPP\7. Aggregation Of Circle\7. Aggregation Of Circle\bin\Debug\netcoreapp3.1\7. Aggregation Of Circle.exe
+C:\[Timmy]\Homework\OPP\7. Aggregation Of Circle\7. Aggregation Of Circle\bin\Debug\netcoreapp3.1\7. Aggregation Of Circle.deps.json
+C:\[Timmy]\Homework\OPP\7. Aggregation Of Circle\7. Aggregation Of Circle\bin\Debug\netcoreapp3.1\7. Aggregation Of Circle.runtimeconfig.json
+C:\[Timmy]\Homework\OPP\7. Aggregation Of Circle\7. Aggregation Of Circle\bin\Debug\netcoreapp3.1\7. Aggregation Of Circle.runtimeconfig.dev.json
+C:\[Timmy]\Homework\OPP\7. Aggregation Of Circle\7. Aggregation Of Circle\bin\Debug\netcoreapp3.1\7. Aggregation Of Circle.dll
+C:\[Timmy]\Homework\OPP\7. Aggregation Of Circle\7. Aggregation Of Circle\bin\Debug\netcoreapp3.1\7. Aggregation Of Circle.pdb
+C:\[Timmy]\Homework\OPP\7. Aggregation Of Circle\7. Aggregation Of Circle\obj\Debug\netcoreapp3.1\7. Aggregation Of Circle.csproj.AssemblyReference.cache
+C:\[Timmy]\Homework\OPP\7. Aggregation Of Circle\7. Aggregation Of Circle\obj\Debug\netcoreapp3.1\7. Aggregation Of Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\[Timmy]\Homework\OPP\7. Aggregation Of Circle\7. Aggregation Of Circle\obj\Debug\netcoreapp3.1\7. Aggregation Of Circle.AssemblyInfoInputs.cache
+C:\[Timmy]\Homework\OPP\7. Aggregation Of Circle\7. Aggregation Of Circle\obj\Debug\netcoreapp3.1\7. Aggregation Of Circle.AssemblyInfo.cs
+C:\[Timmy]\Homework\OPP\7. Aggregation Of Circle\7. Aggregation Of Circle\obj\Debug\netcoreapp3.1\7. Aggregation Of Circle.csproj.CoreCompileInputs.cache
+C:\[Timmy]\Homework\OPP\7. Aggregation Of Circle\7. Aggregation Of Circle\obj\Debug\netcoreapp3.1\7. Aggregation Of Circle.dll
+C:\[Timmy]\Homework\OPP\7. Aggregation Of Circle\7. Aggregation Of Circle\obj\Debug\netcoreapp3.1\7. Aggregation Of Circle.pdb
+C:\[Timmy]\Homework\OPP\7. Aggregation Of Circle\7. Aggregation Of Circle\obj\Debug\netcoreapp3.1\7. Aggregation Of Circle.genruntimeconfig.cache

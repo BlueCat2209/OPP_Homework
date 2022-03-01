@@ -1,0 +1,14 @@
+C:\[Timmy]\Homework\OPP\8. A CD List\8. A CD List\bin\Debug\netcoreapp3.1\8. A CD List.exe
+C:\[Timmy]\Homework\OPP\8. A CD List\8. A CD List\bin\Debug\netcoreapp3.1\8. A CD List.deps.json
+C:\[Timmy]\Homework\OPP\8. A CD List\8. A CD List\bin\Debug\netcoreapp3.1\8. A CD List.runtimeconfig.json
+C:\[Timmy]\Homework\OPP\8. A CD List\8. A CD List\bin\Debug\netcoreapp3.1\8. A CD List.runtimeconfig.dev.json
+C:\[Timmy]\Homework\OPP\8. A CD List\8. A CD List\bin\Debug\netcoreapp3.1\8. A CD List.dll
+C:\[Timmy]\Homework\OPP\8. A CD List\8. A CD List\bin\Debug\netcoreapp3.1\8. A CD List.pdb
+C:\[Timmy]\Homework\OPP\8. A CD List\8. A CD List\obj\Debug\netcoreapp3.1\8. A CD List.csproj.AssemblyReference.cache
+C:\[Timmy]\Homework\OPP\8. A CD List\8. A CD List\obj\Debug\netcoreapp3.1\8. A CD List.GeneratedMSBuildEditorConfig.editorconfig
+C:\[Timmy]\Homework\OPP\8. A CD List\8. A CD List\obj\Debug\netcoreapp3.1\8. A CD List.AssemblyInfoInputs.cache
+C:\[Timmy]\Homework\OPP\8. A CD List\8. A CD List\obj\Debug\netcoreapp3.1\8. A CD List.AssemblyInfo.cs
+C:\[Timmy]\Homework\OPP\8. A CD List\8. A CD List\obj\Debug\netcoreapp3.1\8. A CD List.csproj.CoreCompileInputs.cache
+C:\[Timmy]\Homework\OPP\8. A CD List\8. A CD List\obj\Debug\netcoreapp3.1\8. A CD List.dll
+C:\[Timmy]\Homework\OPP\8. A CD List\8. A CD List\obj\Debug\netcoreapp3.1\8. A CD List.pdb
+C:\[Timmy]\Homework\OPP\8. A CD List\8. A CD List\obj\Debug\netcoreapp3.1\8. A CD List.genruntimeconfig.cache
