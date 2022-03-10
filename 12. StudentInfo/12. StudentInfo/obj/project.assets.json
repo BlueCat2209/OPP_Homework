@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\[Timmy]\\Homework\\OPP\\11. Students\\11. Students\\11. StudentGrades.csproj",
-      "projectName": "11. StudentGrades",
-      "projectPath": "C:\\[Timmy]\\Homework\\OPP\\11. Students\\11. Students\\11. StudentGrades.csproj",
+      "projectUniqueName": "C:\\[Timmy]\\Homework\\OPP\\12. StudentInfo\\12. StudentInfo\\12. StudentInfo.csproj",
+      "projectName": "12. StudentInfo",
+      "projectPath": "C:\\[Timmy]\\Homework\\OPP\\12. StudentInfo\\12. StudentInfo\\12. StudentInfo.csproj",
       "packagesPath": "C:\\Users\\CHUWI\\.nuget\\packages\\",
-      "outputPath": "C:\\[Timmy]\\Homework\\OPP\\11. Students\\11. Students\\obj\\",
+      "outputPath": "C:\\[Timmy]\\Homework\\OPP\\12. StudentInfo\\12. StudentInfo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CHUWI\\AppData\\Roaming\\NuGet\\NuGet.Config",

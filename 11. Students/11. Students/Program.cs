@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _11._Students
+namespace _11._StudentGrades
 {
     class Program
     {
